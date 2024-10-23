@@ -10,8 +10,8 @@
         "400 g mushroom",
         "50 g garlic"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories",
+      "preparing_time": 30,
+      "calories": 320,
       "recipe_image": "https://images.pexels.com/photos/5337519/pexels-photo-5337519.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -25,8 +25,8 @@
         "50 g parmesan cheese",
         "2 large eggs"
       ],
-      "preparing_time": "25 min",
-      "calories": "450 calories",
+      "preparing_time": 25,
+      "calories": 450,
       "recipe_image": "https://images.pexels.com/photos/19992958/pexels-photo-19992958/free-photo-of-healthy-dinner-on-blue-plate.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
     },
     {
@@ -40,8 +40,8 @@
         "100 g snap peas",
         "2 tbsp soy sauce"
       ],
-      "preparing_time": "20 min",
-      "calories": "180 calories",
+      "preparing_time": 20,
+      "calories": 180,
       "recipe_image": "https://images.pexels.com/photos/28992224/pexels-photo-28992224/free-photo-of-delicious-poke-bowl-with-fresh-ingredients.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -55,8 +55,8 @@
         "50 g cheddar cheese",
         "100 g diced tomatoes"
       ],
-      "preparing_time": "15 min",
-      "calories": "370 calories",
+      "preparing_time": 15,
+      "calories": 370,
       "recipe_image": "https://images.pexels.com/photos/1872896/pexels-photo-1872896.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -70,8 +70,8 @@
         "1 lemon (juice and zest)",
         "50 g fresh parsley"
       ],
-      "preparing_time": "20 min",
-      "calories": "400 calories",
+      "preparing_time": 20,
+      "calories": 400,
       "recipe_image": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -85,8 +85,8 @@
         "100 g croutons",
         "100 ml Caesar dressing"
       ],
-      "preparing_time": "15 min",
-      "calories": "350 calories",
+      "preparing_time": 15,
+      "calories": 350,
       "recipe_image": "https://images.pexels.com/photos/3073970/pexels-photo-3073970.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -100,8 +100,8 @@
         "2 tbsp fish sauce",
         "100 g bean sprouts"
       ],
-      "preparing_time": "25 min",
-      "calories": "380 calories",
+      "preparing_time": 25,
+      "calories": 380,
       "recipe_image": "https://images.pexels.com/photos/1600732/pexels-photo-1600732.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
@@ -115,8 +115,8 @@
         "100 g spinach",
         "1 onion"
       ],
-      "preparing_time": "30 min",
-      "calories": "290 calories",
+      "preparing_time": 30,
+      "calories": 290,
       "recipe_image": "https://images.pexels.com/photos/1247677/pexels-photo-1247677.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
   ]
