@@ -1,0 +1,123 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A delicious grilled chicken recipe with a touch of basil flavor.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "50 g garlic"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories",
+      "recipe_image": "https://images.pexels.com/photos/5337519/pexels-photo-5337519.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Pasta Carbonara",
+      "short_description": "Creamy and savory pasta carbonara with pancetta.",
+      "ingredients": [
+        "400 g spaghetti",
+        "200 g pancetta",
+        "100 ml cream",
+        "50 g parmesan cheese",
+        "2 large eggs"
+      ],
+      "preparing_time": "25 min",
+      "calories": "450 calories",
+      "recipe_image": "https://images.pexels.com/photos/19992958/pexels-photo-19992958/free-photo-of-healthy-dinner-on-blue-plate.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "A healthy mix of stir-fried vegetables with a savory soy sauce.",
+      "ingredients": [
+        "300 g broccoli",
+        "200 g carrots",
+        "150 g bell peppers",
+        "100 g snap peas",
+        "2 tbsp soy sauce"
+      ],
+      "preparing_time": "20 min",
+      "calories": "180 calories",
+      "recipe_image": "https://images.pexels.com/photos/28992224/pexels-photo-28992224/free-photo-of-delicious-poke-bowl-with-fresh-ingredients.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Tasty beef tacos topped with fresh vegetables and cheese.",
+      "ingredients": [
+        "400 g ground beef",
+        "6 taco shells",
+        "100 g shredded lettuce",
+        "50 g cheddar cheese",
+        "100 g diced tomatoes"
+      ],
+      "preparing_time": "15 min",
+      "calories": "370 calories",
+      "recipe_image": "https://images.pexels.com/photos/1872896/pexels-photo-1872896.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Lemon Garlic Salmon",
+      "short_description": "Pan-seared salmon infused with a lemon garlic sauce.",
+      "ingredients": [
+        "500 g salmon fillets",
+        "2 tbsp olive oil",
+        "3 cloves garlic",
+        "1 lemon (juice and zest)",
+        "50 g fresh parsley"
+      ],
+      "preparing_time": "20 min",
+      "calories": "400 calories",
+      "recipe_image": "https://images.pexels.com/photos/2313686/pexels-photo-2313686.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "Classic Caesar salad with grilled chicken and homemade dressing.",
+      "ingredients": [
+        "300 g chicken breast",
+        "150 g romaine lettuce",
+        "50 g parmesan cheese",
+        "100 g croutons",
+        "100 ml Caesar dressing"
+      ],
+      "preparing_time": "15 min",
+      "calories": "350 calories",
+      "recipe_image": "https://images.pexels.com/photos/3073970/pexels-photo-3073970.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "recipe_id": 7,
+      "recipe_name": "Shrimp Pad Thai",
+      "short_description": "Traditional Thai stir-fried noodles with shrimp and peanuts.",
+      "ingredients": [
+        "300 g shrimp",
+        "200 g rice noodles",
+        "50 g peanuts",
+        "2 tbsp fish sauce",
+        "100 g bean sprouts"
+      ],
+      "preparing_time": "25 min",
+      "calories": "380 calories",
+      "recipe_image": "https://images.pexels.com/photos/1600732/pexels-photo-1600732.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "recipe_id": 8,
+      "recipe_name": "Spicy Chickpea Curry",
+      "short_description": "A spicy and flavorful chickpea curry with coconut milk.",
+      "ingredients": [
+        "400 g canned chickpeas",
+        "200 ml coconut milk",
+        "50 g curry powder",
+        "100 g spinach",
+        "1 onion"
+      ],
+      "preparing_time": "30 min",
+      "calories": "290 calories",
+      "recipe_image": "https://images.pexels.com/photos/1247677/pexels-photo-1247677.jpeg?auto=compress&cs=tinysrgb&w=600"
+    }
+  ]
+  
